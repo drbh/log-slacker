@@ -1,0 +1,10 @@
+[package]
+name = "log-slacker"
+version = "0.1.0"
+authors = ["David Holtz <david.richard.holtz@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+logwatcher = "0.1"
+slack-hook = "0.7"
+regex = "1"
